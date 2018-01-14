@@ -4,3 +4,8 @@
 ## features
 - Only maps private fields
 - Async only
+- No naming configuration
+- No many-to-many mapping
+
+## questions
+- Nested classes
